@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/Nmap-%230A0A0A.svg?style=for-the-badge&logo=Nmap&logoColor=white" />
   <img src="https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=OWASP-ZAP&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP%20Top%2010-000000?style=for-the-badge&logo=OWASP&logoColor=white" />
 </p>
 
 ### 💻 Programming & Scripting
