@@ -1,16 +1,9 @@
-## Hi there 👋
-
-<h1 align="center">Hi , I am Alex Salazar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Alex Salazar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=22F74B&center=true&width=600&lines=Cybersecurity+Student;Ethical+Hacker+%26+Pentester;CTF+Player;Security+Researcher;Always+Learning+New+Techniques" alt="Typing SVG" /></a>
 </p>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=[tu-usuario]&label=Profile%20views&color=0e75b6&style=flat" alt="[tu-usuario]" /> 
-</p>
-
 ## 🔒 About Me
-<picture> <img align="right" src="https://github.com/[tu-usuario]/[tu-usuario]/blob/main/images/hacker.gif?raw=true" width=300px></picture>
 
 ```diff
 + Cybersecurity Student | Ethical Hacker | Security Enthusiast
@@ -19,6 +12,7 @@
 - 👯 Looking to collaborate on security research projects
 - 🥅 Goals: eJPT Certification
 ```
+
 
 ## 🛡️ Cybersecurity Stack
 
