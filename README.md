@@ -8,9 +8,9 @@
 class JugadorCTF:
     alias = '0xAlx'
     equipo = 'Los Script Kiddies'  # Equipo de CTF (aunque sea solo yo vs el café)
-    ranking = '#1'       # Nivel hacker (siempre el numero 1 aunque pierda...)
+    ranking = '#1'       # Nivel hacker (siempre el numero 1...)
     
-    especialidades = [      # Áreas que domino (o fingo dominar) 
+    especialidades = [      # Áreas que domino (o finjo dominar) 
         'Pentesting Web',
         'OWAS TOP 10',
         '...y pasar noches enteras por ESA BANDERA! 🚩☕'
@@ -20,7 +20,6 @@ class JugadorCTF:
         'Ghidra',          # Para reversear como pro jsjsjs
         'Burp Suite',      # La navaja suiza de lo web
         'pwntools',        # Para explotar bins con estilo
-        'CyberChef',       # La cocina mágica
         'John the Ripper', # El rompe-contraseñas
         '...y otras 42 herramientas que nunca lees la documentación'
     ]
