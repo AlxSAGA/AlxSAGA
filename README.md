@@ -7,8 +7,7 @@
 ```python
 class JugadorCTF:
     alias = '0xAlxSG'
-    equipo = 'Los Script Kiddies'  # Equipo de CTF (aunque sea solo yo vs el café)
-    ranking = '#1'       # Nivel hacker (siempre el numero 1...)
+    equipo = 'Red Team'  
     
     especialidades = [      # Áreas que domino (o finjo dominar) 
         'Hacking Web',
@@ -16,20 +15,9 @@ class JugadorCTF:
         '...y pasar noches enteras por ESA BANDERA! 🚩☕'
     ]
     
-    herramientas = [       # Lo que usao vs lo que digo que uso (¿quién lee los manuales?).
-        'Ghidra',          # Para reversear como pro jsjsjs
-        'Burp Suite',      # La navaja suiza de lo web
-        'pwntools',        # Para explotar bins con estilo
-        'John the Ripper', # El rompe-contraseñas
-        '...y otras 42 herramientas que nunca lees la documentación'
-    ]
-
-    def origen():
-        return 'Ciberspacio' # ( Suena mas misterioso...)
-    
     def mision_actual():    # Un bucle infinito de buscar bugs, explotarlos y tomar café (la parte importante).
         while True:         # Bucle infinito de sufrimiento
-            fase_reconocimiento_objetivo()
+            reconocimiento_objetivo()
             buscar_vulnerabilidad()
             explotar()
             capturar_bandera()
@@ -37,11 +25,11 @@ class JugadorCTF:
             
     def metas():
         hackear_todo()      # Autoexplicativo
-        escribir_exploit_0day()  # Para mas placer
-        automatizar_lo_innecesario()  # Porque puedo
-        # [...]  # 1337 metas más...
+        escribir_exploit_0day() 
+        automatizar_lo_innecesario()  
+        # [...]   1337 metas más...
         
-    def my_lema():             # Frase obligatoria que suena cool pero que nadie entiende.
+    def my_lema():
         return "¡'cat flag.txt || rm -rf /' o nada! ⚡"
 ```
 
