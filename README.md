@@ -76,9 +76,21 @@ if __name__ == '__main__':
   
 </p>
 
-## 🏆 Mis metas
-- eJPT (eLearnSecurity Junior Penetration Tester)
-- DockerLabs & TryHackMe & HackTheBox Pro Hacker
+## 🎯 Metas Profesionales
+##### eJPT | eLearnSecurity Junior Penetration Tester
+Certificación práctica que valida habilidades esenciales en seguridad ofensiva:
+- Reconocimiento de redes
+- Explotación de vulnerabilidades
+- Técnicas de post-explotación
+- Metodologías de pentesting
+
+### Plataformas de práctica
+<p align="left">
+  <img src="https://img.shields.io/badge/HackTheBox_Pro_Hacker-OBJETIVO-9FEF00?style=flat-square&logo=hackthebox&logoColor=black" />
+  <img src="https://img.shields.io/badge/TryHackMe_Top -META_A_LARGO_PLAZO-212C42?style=flat-square&logo=tryhackme&logoColor=white" />
+  <img src="https://img.shields.io/badge/DockerLabs_Master-EN_DESARROLLO-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
+
 
 ## 🔗 Conéctate conmigo
 <p align="center">
