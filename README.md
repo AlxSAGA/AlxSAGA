@@ -8,8 +8,7 @@
 class JugadorCTF:
     alias = '0xAlxSG'
     equipo = 'Red Team'  
-    
-    especialidades = [    
+    conocimientos = [    
         'Hacking Web',
         'OWAS TOP 10',
     ]
@@ -77,7 +76,7 @@ if __name__ == '__main__':
 </p>
 
 ## 🎯 Metas Profesionales
-##### eJPT | eLearnSecurity Junior Penetration Tester
+#### eJPT | eLearnSecurity Junior Penetration Tester
 Certificación práctica que valida habilidades esenciales en seguridad ofensiva:
 - Reconocimiento de redes
 - Explotación de vulnerabilidades
