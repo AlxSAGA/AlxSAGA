@@ -7,7 +7,8 @@
 ```python
 class JugadorCTF:
     alias = 'AlxSG'
-    equipo = 'Red Teaming'  
+    equipo = 'Red Teaming'
+    ranking_docker_labs = '4'
     conocimientos = [    
         'Hacking Web',
         'OWAS TOP 10',
