@@ -22,8 +22,8 @@ class JugadorCTF:
             tomar_cafe()    # Función crítica
 
 if __name__ == '__main__':
-  0xAlxSG = JugadorCTF()
-  0xAlxSG.ejecutar()
+  AlxSG = JugadorCTF()
+  AlxSG.ejecutar()
 ```
 ## 🛡️ 📚 Áreas de conocimiento
 
