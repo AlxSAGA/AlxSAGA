@@ -6,8 +6,8 @@
 ## 🔒 Acerca de mí
 ```python
 class JugadorCTF:
-    alias = '0xAlxSG'
-    equipo = 'Red Team'  
+    alias = 'AlxSG'
+    equipo = 'Red Teaming'  
     conocimientos = [    
         'Hacking Web',
         'OWAS TOP 10',
