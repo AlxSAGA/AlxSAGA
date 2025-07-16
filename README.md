@@ -9,10 +9,6 @@ class JugadorCTF:
     alias = 'AlxSG'
     equipo = 'Red Teaming'
     top_ranking_docker_labs = '#4'
-    conocimientos = [    
-        'Hacking Web',
-        'OWAS TOP 10',
-    ]
     
     def ejecutar(): 
         while True:
