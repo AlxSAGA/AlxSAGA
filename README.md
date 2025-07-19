@@ -28,12 +28,6 @@ if __name__ == '__main__':
 <p align="left">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/OWASP%20Top%2010-000000?style=for-the-badge&logo=OWASP&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-%230A0A0A.svg?style=for-the-badge&logo=Nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/metasploit-%2312100E.svg?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sqlmap-FF6C37?style=for-the-badge&logo=security&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hydra-FF6C37?style=for-the-badge&logo=security&logoColor=white" />
-  <img src="https://img.shields.io/badge/John_The_Ripper-FF6C37?style=for-the-badge&logo=security&logoColor=white" />
 </p>
 
 ### 🛠️ Entornos y Plataformas
@@ -63,24 +57,7 @@ if __name__ == '__main__':
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-## 🚀 Plataformas CTF
-<p align="center">
-
-  <a href="https://dockerlabs.es/usuarios/[tu-usuario]"><img src="https://img.shields.io/badge/DockerLabs-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
-  <a href="[Tu perfil TryHackMe]"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white" /></a>
-  <a href="[Tu perfil HTB]"><img src="https://img.shields.io/badge/Hack_The_Box-111927?style=for-the-badge&logo=Hack-The-Box&logoColor=9FEF00" /></a>
-  
-</p>
-
-## 🎯 Metas Profesionales
-#### eJPT | eLearnSecurity Junior Penetration Tester
-Certificación práctica que valida habilidades esenciales en seguridad ofensiva:
-- Reconocimiento de redes
-- Explotación de vulnerabilidades
-- Técnicas de post-explotación
-- Metodologías de pentesting
-
-### Plataformas de práctica
+### 🚀 Plataformas de práctica
 <p align="left">
   <img src="https://img.shields.io/badge/HackTheBox_Pro_Hacker-OBJETIVO-9FEF00?style=flat-square&logo=hackthebox&logoColor=black" />
   <img src="https://img.shields.io/badge/TryHackMe_Top -META_A_LARGO_PLAZO-212C42?style=flat-square&logo=tryhackme&logoColor=white" />
