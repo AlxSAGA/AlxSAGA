@@ -1,28 +1,9 @@
 <h1 align="center">Hi , I'm Alex Salazar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=22F74B&center=true&width=600&lines=Ethical+Hacker;Cybersecurity+Pentester;CTF+Player" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=22F74B&center=true&width=600&lines=Ethical+Hacker" alt="Typing SVG" /></a>
 </p>
 
-## 🔒 Acerca de mí
-```python
-class JugadorCTF:
-    alias = 'AlxSG'
-    equipo = 'Red Teaming'
-    top_ranking_docker_labs = '#3'
-    
-    def ejecutar(): 
-        while True:
-            reconocimiento_objetivo()
-            buscar_vulnerabilidad()
-            explotar()
-            capturar_bandera()
-            tomar_cafe()    # Función crítica
-
-if __name__ == '__main__':
-  AlxSG = JugadorCTF()
-  AlxSG.ejecutar()
-```
-## 🛡️ 📚 Áreas de conocimiento
+# 🛡️ 📚 Áreas de conocimiento
 
 ### 🔧 Herramientas y tecnologías Ciberseguridad
 <p align="left">
